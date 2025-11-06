@@ -1,15 +1,3 @@
-'''
-                        TRABALHO EM EQUIPE DE FUNDAMENTOS DE PROGRAMAÇÃO
-
-                                        EQUIPE:
-                                        Alexsandro Martins
-                                        Ciro Coimbra
-                                        Lígia Sufia 
-                                        Luana Cristina
-                                        Mahatma Gandhi
-
-'''
-
 from tkinter import *
 
 # JANELA PRINCIPAL
